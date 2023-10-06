@@ -39,5 +39,24 @@ Step 4 : Install requirements.txt in the newly created environment
 Step 5 : Installation and setup is done:
          a).  cd src
          b). python clientApp.py
-
          Yor are good to go ........................................
+
+
+**Input Form**
+![Input Form](https://github.com/sohel-jagirdar/Face-Recognition-Appliaction-for-Attendance-Facenet-MTCNN/assets/52422511/83361983-e3be-463d-91b1-784ec23c3947)
+ 
+
+**Training Faces with TCNN and Facenet after Collected Image for face training***
+![Training Faces with TCNN and Facenet](https://github.com/sohel-jagirdar/Face-Recognition-Appliaction-for-Attendance-Facenet-MTCNN/assets/52422511/f0dc77c1-deb7-4c91-9f4e-3c7dd98d2600)
+
+**Predection 1 (face from front)**
+![Predection 1 (face from front)](https://github.com/sohel-jagirdar/Face-Recognition-Appliaction-for-Attendance-Facenet-MTCNN/assets/52422511/824f0f4d-a736-4b43-8dd0-66e74810b2ba)
+
+
+**Predection 2 (face to Right)**
+![Predection 2 (face to Right)](https://github.com/sohel-jagirdar/Face-Recognition-Appliaction-for-Attendance-Facenet-MTCNN/assets/52422511/91f3fbf0-f0c8-43e4-9f76-8c7e8b862740)
+
+**Predection 3 (face to Left)**
+![Predection 3 (face to Left)](https://github.com/sohel-jagirdar/Face-Recognition-Appliaction-for-Attendance-Facenet-MTCNN/assets/52422511/1039075e-ff7c-44ba-b627-da982faa0313)
+
+
