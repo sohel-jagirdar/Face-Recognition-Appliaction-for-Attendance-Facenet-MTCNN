@@ -1,7 +1,19 @@
 # Face-Recognition-Appliaction-for-Attendance-Facenet-MTCNN
 This Application can detect faces and identify person for attendance or you can use it for other pusrpose as well
 
-Screenshots/Collected Image for face training.jpg
+# Requirements:
+
+* **Hardware Requirements:** A computer with a webcam and internet connectivity is needed to run the system. The webcam should have a resolution of at least 720p to capture clear images.
+
+* **Software Requirements:** The system will be built using Python programming language. The required software includes a Python IDE like PyCharm or Spyder, OpenCV library, face_recognition library, and NumPy library.
+
+* **Facial Recognition Algorithm:** The system will use a facial recognition algorithm to recognize faces. The algorithm should be able to detect faces and extract facial features accurately.
+ 
+* **User Interface:** The system should have a user-friendly interface to capture images, display results, and generate reports.
+
+* **Attendance Management:** The system should be able to manage attendance records for each person, including the date and time of attendance.
+
+**Overall, the Smart Attendance System Using Face Recognition should be reliable, efficient, and easy to use. It should automate attendance-taking and provide accurate and timely attendance records.**
 
 # Create a new environment
 Step 1 : open your anaconda prompt (for windows user search inside start menu )
